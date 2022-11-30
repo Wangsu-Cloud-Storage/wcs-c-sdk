@@ -24,7 +24,7 @@ rm -rf ./*
 cmake ../
 make
 ```
-*注：Windows环境可使用[windows](https://github.com/Wangsu-Cloud-Storage/wcs-c-sdk/tree/master/windows)目录下提供的库进行安装*
+*注：该版本当前仅适配Linux环境*
 
 ### WCS存储相关信息：
 调用接口需要用到ACCESS_KEY ，SECRET_KEY ，上传域名和管理域名，这些可通过网宿官方获取。
