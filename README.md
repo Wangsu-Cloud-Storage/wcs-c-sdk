@@ -1,6 +1,10 @@
 # wcs-c-sdk
 C SDK for wcs
 
+## 语言 / Language
+- [简体中文](README.md)
+- [English](README.en.md)
+
 
 ### 概要:
 
